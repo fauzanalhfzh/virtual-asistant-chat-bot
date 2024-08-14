@@ -28,8 +28,8 @@ Sebelum memulai, pastikan Anda telah menginstal [Node.js](https://nodejs.org/) d
 Pertama, clone repository ke mesin lokal Anda:
 
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/fauzanalhfzh/virtual-asistant-chat-bot.git
+cd virtual-asistant-chat-bot
 ```
 
 2. **Instal Dependencies**
@@ -70,6 +70,7 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah ber
 
 Jika Anda memiliki pertanyaan atau umpan balik, jangan ragu untuk menghubungi saya di:
 
-Email: zenbangga.com
+Email: zenbangga@gmail.com
+website: zenstoryy.com
 GitHub: https://github.com/fauzanalhfzh
 Terima kasih telah mengunjungi proyek ini!
