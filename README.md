@@ -2,7 +2,7 @@
 
 Selamat datang di proyek aplikasi INTERN AI CHATBOT! Ini adalah aplikasi chat interaktif yang memungkinkan pengguna untuk berkomunikasi dengan bot AI, menyimpan sesi chat, dan memuat sesi sebelumnya. Proyek ini dirancang menggunakan React untuk frontend dan CSS untuk styling.
 
-##### Live Preview INTERN AI CHATBOT:
+##### Live Preview INTERN AI CHATBOT: [Cobain Guyss!!](https://ai-chat-zeta-gilt.vercel.app)
 
 ## Fitur Utama
 
