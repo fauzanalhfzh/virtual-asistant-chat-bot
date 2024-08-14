@@ -14,6 +14,7 @@ Selamat datang di proyek aplikasi INTERN AI CHATBOT! Ini adalah aplikasi chat in
 ## Teknologi yang Digunakan
 
 - **Frontend**: React, Tailwind CSS
+- **Natural Language Processing**: Groq AI
 - **Backend**: Tidak diperlukan (API external untuk AI)
 - **Storage**: LocalStorage untuk menyimpan sesi chat
 
